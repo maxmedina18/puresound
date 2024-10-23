@@ -1,5 +1,5 @@
 # puresound
-The Following is a Project Developed by HAUSMEDINA
+The Following is a Project Developed by HAUSMEDINA - 
 High-Quality Audio Stemming Using U-Net
 
  "Pure Sound" is a Python-based project that implements a U-Net architecture for high-quality audio separation (stemming). The model takes in mixed audio and outputs separated stems (vocals, instruments, etc.) with minimal noise and high clarity. This project is inspired by advanced audio separation techniques and is designed to help create clean, professional-grade audio stems.
